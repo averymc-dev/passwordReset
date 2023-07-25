@@ -57,7 +57,8 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-  background: radial-gradient(ellipse at 75% 20%, #04068a 40%, #0000), radial-gradient(circle at 40% 80%, #ce1f1f 60%, #0000);
+  background: url('../img/ssp-login-page\(1\).png') no-repeat fixed;
+	background-size: cover;
 }
 
 h3 { 
