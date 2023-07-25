@@ -61,8 +61,9 @@ body {
 	background-size: cover;
 }
 
-h3 { 
+h2 { 
 	font-family: 'Nunito Sans', 'Times New Roman', Times, serif;
+	font-weight: 300;
 }
 
 /* Basic styling for the card */
@@ -103,6 +104,15 @@ div.card > div {
 	margin: 30px 0px;
 }
 
-img {
+.card img {
 	max-width: 100%;
+}
+
+.login-header {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+i {
+	padding-top: 3px;
 }
